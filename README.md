@@ -4,7 +4,7 @@ This project is about **real-time object detection** using OpenCV and Yolo11n.
 ## Requirements
 - Python 3.x  
 - OpenCV  
-- Ultralytics YOLO package
+- Ultralytics YOLO package (`pip install ultralytics`)
 
 ## How to Run
 
